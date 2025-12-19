@@ -99,10 +99,10 @@ Below you can watch 2 demos. The first gif using the **Method 1** with the compi
 
 ## References
 
-1. https://devblogs.microsoft.com/commandline/windows-command-line-introducing-the-windows-pseudo-console-conpty/
+1.https://devblogs.microsoft.com/commandline/windows-command-line-introducing-the-windows-pseudo-console-conpty/
 2. https://github.com/microsoft/terminal
-3. https://www.usenix.org/conference/usenixsecurity20/presentation/niakanlahiji
-4. https://adepts.of0x.cc/shadowmove-hijack-socket/
+3.https://www.usenix.org/conference/usenixsecurity20/presentation/niakanlahiji
+4.https://adepts.of0x.cc/shadowmove-hijack-socket/
 
 ## Credits
 
